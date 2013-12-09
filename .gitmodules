@@ -1,6 +1,6 @@
 [submodule "linux/linux-kernel"]
 	path = linux/linux-kernel
-	url = http://git.code.sf.net/p/adi-linux/code
+	url = https://github.com/soderstrom-rikard/adi-linux
 [submodule "testsuites"]
 	path = testsuites
-	url = http://git.code.sf.net/p/adi-buildroot/buildroot-test/code
+	url = https://github.com/soderstrom-rikard/adi-buildroot-tests
