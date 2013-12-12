@@ -1,0 +1,7 @@
+config BR2_PACKAGE_SDLDOOM
+	bool "sdldoom"
+	select BR2_PACKAGE_SDL
+	help
+	  SDL Port of original DOOM.
+
+	  http://www.libsdl.org/projects/doom

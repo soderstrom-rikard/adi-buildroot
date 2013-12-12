@@ -113,6 +113,7 @@ source "package/gnuchess/Config.in"
 source "package/prboom/Config.in"
 source "package/doom-wad/Config.in"
 source "package/rubix/Config.in"
+source "package/sdldoom/Config.in"
 endmenu
 
 menu "Graphic libraries and applications (graphic/text)"
